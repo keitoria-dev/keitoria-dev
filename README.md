@@ -41,15 +41,6 @@ Crio landing pages feitas sob medida, sem templates e sem frameworks pesados: c�
 | **Autopeças** | Loja de peças automotivas | [Abrir site](https://keitoria-dev.github.io/projeto-autopecas) |
 | **Casa Rossa** | Restaurante de massas | [Abrir site](https://keitoria-dev.github.io/projeto-casa-rossa) |
 
-## Vamos criar a landing page do seu negócio?
-
-Chame no Instagram e conte sobre o seu projeto.
-
-<p>
-  <a href="https://www.instagram.com/keitoria.dev/">
-    <img src="https://img.shields.io/badge/Chamar%20no%20Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white" alt="Chamar no Instagram">
-  </a>
-</p>
 
 ---
 
