@@ -5,8 +5,7 @@
 <h1 align="center">Olá, eu sou a Keity 💜</h1>
 
 <p align="center">
-  Desenvolvedora de landing pages em HTML, CSS e JavaScript puro.<br>
-  Sites sofisticados, modernos e 100% responsivos para negócios que querem vender mais.
+ Front-end Developer · Landing Pages & Web Design
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 
 ## O que eu faço
 
-Crio landing pages feitas sob medida, sem templates e sem frameworks pesados: código limpo, rápido de carregar e pensado para converter visitas em contatos, pedidos e orçamentos.
+Crio landing pages feitas sob medida e sem frameworks pesados: código limpo, rápido de carregar e pensado para converter visitas em contatos, pedidos e orçamentos.
 
 - Design editorial, com identidade própria para cada marca
 - Layout totalmente responsivo, do celular ao desktop
